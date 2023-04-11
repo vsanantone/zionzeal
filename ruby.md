@@ -1,3 +1,5 @@
 ## Ruby
 
-    - RUby is a very beginner friendly language!
+    - Ruby is a very beginner friendly language!
+
+    - My Turing Team is the best!
